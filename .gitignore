@@ -3,3 +3,7 @@
 *.classpath
 *.project
 *.bak
+<<<<<<< HEAD
+=======
+/bin/
+>>>>>>> dev
