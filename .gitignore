@@ -1,2 +1,6 @@
 
 *.class
+*.classpath
+*.project
+*.bak
+/bin/
